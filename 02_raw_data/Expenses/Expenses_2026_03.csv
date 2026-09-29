@@ -1,0 +1,99 @@
+Project ID,Date,Expense Category,Description,Amount,Vendor
+P003,2026-03-05,Materials,Site material delivery,219190.29,Prime Steel & Cement
+P003,2026-03-16,Labor,Weekly labor payment,186010.36,SiteCrew Contractors
+P003,2026-03-16,Labor,Weekly labor payment,186010.36,SiteCrew Contractors
+P003,2026-03-12,Labor,Subcontractor invoice,260380.29,ProLabor Services
+P003,2026-03-13,Labor,Subcontractor invoice,557501.76,BuildForce Staffing
+P003,2026-03-11,Other,Site office expenses,112062.46,General Vendor
+P003,2026-03-16,Materials,Bulk material purchase,175693.44,Apex Materials
+P003,2026-03-09,Materials,Bulk material purchase,246159.62,UrbanBuild Supply
+P003,2026-03-31,Labor,Weekly labor payment,85698.7,SiteCrew Contractors
+P003,2026-03-12,material,Site material delivery,954505.8,UrbanBuild Supply
+P004,2026-03-19,Maintenance,Generator maintenance,514047.16,SafeSite Services
+P004,2026-03-25,Labor,Weekly labor payment,100004.69,BuildForce Staffing
+P004,2026-03-23,Equipment,Crane hire,243078.44,MachineHub
+P004,2026-03-27,Materials,Material top-up order,28200.73,Prime Steel & Cement
+P004,2026-03-31,Labor,Subcontractor invoice,481533.78,SiteCrew Contractors
+P004,2026-03-16,Materials,Material top-up order,152411.33,Apex Materials
+P004,2026-03-16,Other,Safety gear,36286.84,General Vendor
+P004,2026-03-25,Materials,Material top-up order,89879.32,Prime Steel & Cement
+P004,2026-03-13,Equipment,Scaffolding rental,104185.38,MachineHub
+P004,2026-03-20,material,Bulk material purchase,118010.26,Apex Materials
+P004,2026-03-02,Materials,Site material delivery,145446.2,Apex Materials
+P004,2026-03-11,Materials,Bulk material purchase,62923.2,Prime Steel & Cement
+P004,2026-03-16,Labor,Subcontractor invoice,141681.27,BuildForce Staffing
+P004,2026-03-25,Maintenance,Machine servicing,549547.39,FixIt Maintenance
+P004,2026-03-24,Materials,Material top-up order,57995.83,UrbanBuild Supply
+P004,2026-03-12,Materials,Bulk material purchase,49866.1,Apex Materials
+P004,2026-03-19,Materials,Bulk material purchase,291453.52,Prime Steel & Cement
+P004,2026-03-20,Materials,Site material delivery,65026.01,UrbanBuild Supply
+P004,2026-03-04,Materials,Material top-up order,200377.87,
+P004,2026-03-06,Materials,Site material delivery,70510.6,UrbanBuild Supply
+P004,2026-03-02,Labor,Subcontractor invoice,225771.06,SiteCrew Contractors
+P004,2026-03-20,Labor,Skilled crew payment,184244.21,ProLabor Services
+P004,2026-03-23,Materials,Material top-up order,157011.93,Apex Materials
+P004,2026-03-25,Materials,Site material delivery,169553.97,Apex Materials
+P004,2026-03-03,Labor,Subcontractor invoice,169216.2,SiteCrew Contractors
+P004,2026-03-13,Maintenance,Machine servicing,68524.98,SafeSite Services
+P005,2026-03-17,Materials,Bulk material purchase,425115.02,Prime Steel & Cement
+P005,2026-03-06,Labor,Weekly labor payment,28159.0,BuildForce Staffing
+P005,2026-03-02,Materials,Site material delivery,207079.97,Apex Materials
+P005,2026-03-20,Materials,Site material delivery,220108.49,UrbanBuild Supply
+P005,2026-03-11,Labor,Skilled crew payment,121926.8,BuildForce Staffing
+P006,2026-03-13,Labor,Weekly labor payment,91463.57,ProLabor Services
+P006,2026-03-26,Labor,Weekly labor payment,121064.21,BuildForce Staffing
+P006,2026-03-26,Labor,Weekly labor payment,121064.21,BuildForce Staffing
+P006,2026-03-02,Labor,Weekly labor payment,87929.18,BuildForce Staffing
+P006,2026-03-03,Maintenance,Generator maintenance,181990.96,FixIt Maintenance
+P006,2026-03-30,Materials,Site material delivery,299782.37,UrbanBuild Supply
+P006,2026-03-06,Equipment,Scaffolding rental,1840292.78,MachineHub
+P006,2026-03-05,Labor,Skilled crew payment,40682.2,SiteCrew Contractors
+P006,2026-03-23,Transportation,Material transport,203785.86,RoadRunner Freight
+P006,2026-03-31,Other,Permit and licence fees,120067.65,Permit Office
+P006,2026-03-23,Equipment,Crane hire,304028.1,CraneWorks
+P006,2026-03-03,Materials,Bulk material purchase,146896.7,Prime Steel & Cement
+P006,2026-03-03,Materials,Site material delivery,153502.58,UrbanBuild Supply
+P007,2026-03-11,Equipment,Excavator rental,100562.28,MachineHub
+P007,2026-03-17,Materials,Site material delivery,414858.85,Prime Steel & Cement
+P007,2026-03-20,Materials,Bulk material purchase,206292.02,Prime Steel & Cement
+P007,2026-03-18,Materials,Site material delivery,58507.86,Apex Materials
+P007,2026-03-19,Labor,Skilled crew payment,249150.47,SiteCrew Contractors
+P007,2026-03-23,Materials,Site material delivery,64590.19,UrbanBuild Supply
+P007,2026-03-30,Materials,Site material delivery,394679.94,Prime Steel & Cement
+P007,2026-03-04,Other,Safety gear,676760.91,General Vendor
+P007,2026-03-18,Labor,Weekly labor payment,175417.85,BuildForce Staffing
+P007,2026-03-09,Labor,Weekly labor payment,90545.95,ProLabor Services
+P007,2026-03-10,Materials,Site material delivery,99405.41,Apex Materials
+P007,2026-03-06,Labor,Skilled crew payment,156880.86,ProLabor Services
+P007,2026-03-20,Labor,Weekly labor payment,257368.59,SiteCrew Contractors
+P008,2026-03-03,Equipment,Excavator rental,13244.06,MachineHub
+P008,2026-03-31,Labor,Weekly labor payment,195191.2,ProLabor Services
+P008,2026-03-06,Equipment,Crane hire,414307.63,HeavyLift Rentals
+P008,2026-03-20,Labor,Weekly labor payment,101323.79,ProLabor Services
+P008,2026-03-26,Labor,Skilled crew payment,138491.05,BuildForce Staffing
+P008,2026-03-30,Materials,Site material delivery,292739.5,UrbanBuild Supply
+P008,2026-03-12,Materials,Site material delivery,78550.32,Apex Materials
+P008,2026-03-19,Materials,Site material delivery,116235.08,Prime Steel & Cement
+P009,2026-03-04,Materials,Site material delivery,198824.36,Prime Steel & Cement
+P009,2026-03-10,Labor,Skilled crew payment,70471.69,BuildForce Staffing
+P009,2026-03-02,Labor,Subcontractor invoice,69819.99,ProLabor Services
+P009,2026-03-30,Labor,Subcontractor invoice,92863.91,SiteCrew Contractors
+P009,2026-03-13,Materials,Site material delivery,108286.51,UrbanBuild Supply
+P009,2026-03-20,Equipment,Scaffolding rental,329604.27,CraneWorks
+P009,2026-03-24,MATERIALS,Site material delivery,719307.52,Prime Steel & Cement
+P010,2026-03-11,Materials,Site material delivery,193781.99,Prime Steel & Cement
+P010,2026-03-31,Materials,Site material delivery,470298.21,UrbanBuild Supply
+P010,2026-03-05,Materials,Site material delivery,248496.91,Apex Materials
+P010,2026-03-27,Labor,Subcontractor invoice,147727.55,SiteCrew Contractors
+P010,2026-03-26,Materials,Bulk material purchase,1023735.14,UrbanBuild Supply
+P012,2026-03-23,Materials,Site material delivery,108164.43,Prime Steel & Cement
+P012,2026-03-05,Labor,Subcontractor invoice,37363.73,BuildForce Staffing
+P012,2026-03-23,Materials,Bulk material purchase,528491.79,Apex Materials
+P012,2026-03-30,Materials,Site material delivery,140309.48,UrbanBuild Supply
+P012,2026-03-19,Equipment,Excavator rental,159497.4,CraneWorks
+P012,2026-03-18,other,Site office expenses,521441.16,SafetyFirst Supplies
+P012,2026-03-06,Equipment,Scaffolding rental,238463.51,HeavyLift Rentals
+P012,2026-03-12,Transportation,Material transport,255020.04,RoadRunner Freight
+P012,2026-03-19,Materials,Site material delivery,154063.89,Prime Steel & Cement
+P012,2026-03-27,Transportation,Debris removal,172245.22,RoadRunner Freight
+P012,2026-03-10,Materials,Bulk material purchase,182581.51,UrbanBuild Supply

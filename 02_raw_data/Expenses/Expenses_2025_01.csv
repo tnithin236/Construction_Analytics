@@ -1,0 +1,23 @@
+Project ID,Date,Expense Category,Description,Amount,Vendor
+P001,2025-01-16,Labor,Subcontractor invoice,58507.28,SiteCrew Contractors
+P001,2025-01-31,Other,Permit and licence fees,283386.21,Permit Office
+P001,2025-01-15,Labor,Subcontractor invoice,51095.68,SiteCrew Contractors
+P001,2025-01-30,Labor,Skilled crew payment,327703.96,BuildForce Staffing
+P001,2025-01-14,Labor,Weekly labor payment,41900.44,BuildForce Staffing
+P001,2025-01-13,Labor,Weekly labor payment,127674.88,SiteCrew Contractors
+P001,2025-01-21,Materials,Material top-up order,49447.83,UrbanBuild Supply
+P001,2025-01-17,Materials,Material top-up order,356263.12,Prime Steel & Cement
+P001,2025-01-15,Transportation,Debris removal,117770.19,FastHaul Logistics
+P001,2025-01-23,Materials,Bulk material purchase,57146.31,Prime Steel & Cement
+P001,2025-01-10,Labor,Skilled crew payment,60588.02,BuildForce Staffing
+P001,2025-01-17,Materials,Bulk material purchase,98635.23,Apex Materials
+P001,2025-01-10,Labor,Weekly labor payment,120413.16,BuildForce Staffing
+P001,2025-01-21,Materials,Site material delivery,95459.22,Apex Materials
+P001,2025-01-29,Labor,Skilled crew payment,433424.77,ProLabor Services
+P001,2025-01-27,Equipment,Crane hire,164314.31,HeavyLift Rentals
+P001,2025-01-31,Materials,Material top-up order,111552.01,UrbanBuild Supply
+P001,2025-01-27,Materials,Site material delivery,275864.09,Apex Materials
+P001,2025-01-16,Materials,Bulk material purchase,97468.55,Apex Materials
+P001,2025-01-09,Materials,Site material delivery,126021.52,Prime Steel & Cement
+P001,2025-01-09,Materials,Material top-up order,40089.51,UrbanBuild Supply
+P001,2025-01-13,Equipment,Crane hire,300206.4,HeavyLift Rentals

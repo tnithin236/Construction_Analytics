@@ -1,0 +1,38 @@
+Project ID,Date,Expense Category,Description,Amount,Vendor
+P001,2025-02-13,Materials,Site material delivery,128923.56,Apex Materials
+P001,2025-02-18,Materials,Site material delivery,58916.72,UrbanBuild Supply
+P001,2025-02-18,Materials,Bulk material purchase,79040.78,Prime Steel & Cement
+P001,2025-02-24,Labor,Subcontractor invoice,86345.07,ProLabor Services
+P001,2025-02-03,Labor,Subcontractor invoice,98520.23,ProLabor Services
+P001,2025-02-20,Materials,Material top-up order,253662.94,Apex Materials
+P001,2025-02-19,Materials,Site material delivery,23449.97,Prime Steel & Cement
+P001,2025-02-19,Labor,Subcontractor invoice,43494.77,ProLabor Services
+P001,2025-02-03,Labor,Weekly labor payment,559313.38,
+P001,2025-02-28,Materials,Site material delivery,58055.62,Apex Materials
+P001,2025-02-14,Labor,Skilled crew payment,90797.55,SiteCrew Contractors
+P001,2025-02-24,Materials,Bulk material purchase,366846.04,UrbanBuild Supply
+P001,2025-02-25,Labor,Skilled crew payment,48196.67,BuildForce Staffing
+P001,2025-02-06,Labor,Skilled crew payment,94974.27,SiteCrew Contractors
+P001,2025-02-25,Labor,Subcontractor invoice,591848.55,ProLabor Services
+P001,2025-02-17,Other,Permit and licence fees,342719.65,SafetyFirst Supplies
+P001,2025-02-19,Equipment,Scaffolding rental,36394.04,MachineHub
+P001,2025-02-20,Transportation,Material transport,545775.42,RoadRunner Freight
+P001,2025-02-06,Equipment,Crane hire,138247.77,HeavyLift Rentals
+P001,2025-02-14,MATERIALS,Site material delivery,46697.04,UrbanBuild Supply
+P002,2025-02-11,Labor,Subcontractor invoice,132099.73,BuildForce Staffing
+P002,2025-02-10,Transportation,Material transport,163560.46,FastHaul Logistics
+P002,2025-02-27,Labor,Skilled crew payment,59084.33,BuildForce Staffing
+P002,2025-02-04,Materials,Site material delivery,193769.03,Apex Materials
+P002,2025-02-21,Materials,Bulk material purchase,244935.17,UrbanBuild Supply
+P002,2025-02-28,Materials,Bulk material purchase,70444.13,Prime Steel & Cement
+P002,2025-02-19,Transportation,Material transport,143437.47,RoadRunner Freight
+P002,2025-02-28,Labor,Weekly labor payment,144010.45,ProLabor Services
+P002,2025-02-13,Labor,Weekly labor payment,269141.96,SiteCrew Contractors
+P002,2025-02-13,Labor,Weekly labor payment,269141.96,SiteCrew Contractors
+P002,2025-02-05,Materials,Material top-up order,127736.8,UrbanBuild Supply
+P002,2025-02-21,Other,Permit and licence fees,48318.65,Permit Office
+P002,2025-02-11,Labor,Subcontractor invoice,56057.12,ProLabor Services
+P002,2025-02-07,Transportation,Debris removal,225743.67,FastHaul Logistics
+P002,2025-02-12,Equipment,Scaffolding rental,50391.21,CraneWorks
+P002,2025-02-06,Other,Safety gear,73575.64,SafetyFirst Supplies
+P002,2025-02-19,Other,Safety gear,335864.29,Permit Office

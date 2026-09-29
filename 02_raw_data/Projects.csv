@@ -1,0 +1,15 @@
+Project ID,Project Name,Location,Project Manager,Start Date,Planned End Date,Actual End Date,Planned Budget,Actual Cost,Project Status
+P001, skyline tower,Downtown,Michael Reeves,2025-01-06,2025-11-28,2025-12-23,48000000,53759999.95,Completed
+P002,Harbor Bridge Retrofit,Harbor District,Sarah Collins,2025-02-03,2025-10-31,2025-10-26,32000000,31040000.01,Completed
+P003,Greenfield Residency,North Hills,David Turner,2025-03-10,2026-03-31,2026-05-10,27000000,31860000.01,Completed
+P004,METRO PLAZA MALL,City Center,Emily Brooks,2025-04-01,2026-06-15,,55000000,60708086.46,In Progress
+P005,Lakeview Apartments,Lakeview,Robert Hayes,2025-05-05,2026-08-30,,22000000,19973073.94,in progress
+P006,riverside hospital wing ,Riverside,Sarah Collins,2025-06-02,2026-12-18,,41000000,35307971.92,In Progress
+P007,Tech Park Phase 1,Tech Corridor,Michael Reeves,2025-07-07,2027-01-29,,60000000,30471510.4,In-Progress
+P008,Central School  Complex,City Center,Emily Brooks,2025-08-04,2026-07-31,,18000000,18490155.98,In Progress
+P009,Eastgate Warehouse,Eastgate,David Turner,2025-09-01,2026-05-29,2026-06-18,14000000,15120000.02,Completed
+P010,Sunrise Villas,North Hills,,2025-10-06,2027-02-26,,30000000,15046121.94,In Progress
+P010,Sunrise Villas,North Hills,,2025-10-06,2027-02-26,,30000000,15046121.94,In Progress
+P011,City Water Pipeline,Harbor District,Sarah Collins,2025-11-03,2027-03-31,,25000000,2792308.17,On Hold
+P011,City Water Pipeline,Harbor District,Sarah Collins,2025-11-03,2027-03-31,,25000000,2792308.17,On Hold
+P012,Airport Road Flyover,Airport Zone,Emily Brooks,2026-01-12,2027-06-30,,45000000,9780639.74,In Progress

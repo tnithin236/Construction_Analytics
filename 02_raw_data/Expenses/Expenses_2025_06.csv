@@ -1,0 +1,85 @@
+Project ID,Date,Expense Category,Description,Amount,Vendor
+P001,2025-06-13,Equipment,Crane hire,128298.6,MachineHub
+P001,2025-06-23,Labor,Subcontractor invoice,67666.6,ProLabor Services
+P001,2025-06-13,Equipment,Excavator rental,114367.8,CraneWorks
+P001,2025-06-16,Equipment,Excavator rental,110535.25,MachineHub
+P001,2025-06-25,Materials,Site material delivery,150634.62,UrbanBuild Supply
+P001,2025-06-05,Labor,Subcontractor invoice,108719.23,SiteCrew Contractors
+P001,2025-06-04,Other,Permit and licence fees,143485.38,Permit Office
+P001,2025-06-05,Equipment,Excavator rental,172088.99,MachineHub
+P001,2025-06-26,Other,Permit and licence fees,149296.65,SafetyFirst Supplies
+P001,2025-06-30,Equipment,Scaffolding rental,129363.39,HeavyLift Rentals
+P001,2025-06-23,Equipment,Scaffolding rental,34652.05,CraneWorks
+P001,2025-06-26,Other,Site office expenses,58473.76,General Vendor
+P001,2025-06-23,Labor,Subcontractor invoice,75680.34,ProLabor Services
+P001,2025-06-03,Maintenance,Machine servicing,118142.8,SafeSite Services
+P001,2025-06-09,Materials,Bulk material purchase,503344.15,Prime Steel & Cement
+P001,2025-06-30,Other,Site office expenses,170411.71,Permit Office
+P001,2025-06-04,Other,Permit and licence fees,240868.8,General Vendor
+P001,2025-06-04,Materials,Bulk material purchase,80077.6,UrbanBuild Supply
+P001,2025-06-02,Materials,Bulk material purchase,234362.04,Prime Steel & Cement
+P001,2025-06-23,Labor,Weekly labor payment,1246241.16,BuildForce Staffing
+P001,2025-06-30,Maintenance,Generator maintenance,510525.35,SafeSite Services
+P001,2025-06-13,Labor,Skilled crew payment,115155.3,BuildForce Staffing
+P001,2025-06-11,Other,Site office expenses,392458.82,Permit Office
+P002,2025-06-24,Materials,Site material delivery,262964.13,Prime Steel & Cement
+P002,2025-06-02,Other,Permit and licence fees,139242.47,Permit Office
+P002,2025-06-11,Materials,Material top-up order,65494.27,Prime Steel & Cement
+P002,2025-06-19,Materials,Material top-up order,214184.48,Prime Steel & Cement
+P002,2025-06-25,Materials,Site material delivery,203184.22,Apex Materials
+P002,2025-06-04,Other,Site office expenses,68759.92,Permit Office
+P002,2025-06-23,Materials,Site material delivery,120552.83,Apex Materials
+P002,2025-06-02,Materials,Bulk material purchase,64092.93,Apex Materials
+P002,2025-06-03,Equipment,Excavator rental,148531.32,MachineHub
+P002,2025-06-13,Materials,Material top-up order,182942.79,Prime Steel & Cement
+P002,2025-06-30,Other,Permit and licence fees,242597.3,General Vendor
+P003,2025-06-04,Materials,Material top-up order,659769.32,Prime Steel & Cement
+P003,2025-06-27,Materials,Bulk material purchase,93011.01,UrbanBuild Supply
+P003,2025-06-18,Labor,Skilled crew payment,64159.85,BuildForce Staffing
+P003,2025-06-11,Labor,Subcontractor invoice,194998.53,ProLabor Services
+P003,2025-06-03,Materials,Site material delivery,123888.36,Apex Materials
+P003,2025-06-11,Equipment,Excavator rental,71224.83,HeavyLift Rentals
+P003,2025-06-27,Labor,Skilled crew payment,136628.04,SiteCrew Contractors
+P003,2025-06-24,Labor,Subcontractor invoice,183777.22,SiteCrew Contractors
+P003,2025-06-25,Labor,Skilled crew payment,318093.69,BuildForce Staffing
+P003,2025-06-17,Labor,Weekly labor payment,588157.33,ProLabor Services
+P003,2025-06-27,Equipment,Scaffolding rental,44176.26,MachineHub
+P003,2025-06-10,Labor,Subcontractor invoice,671415.88,ProLabor Services
+P003,2025-06-04,Equipment,Scaffolding rental,125471.13,CraneWorks
+P003,2025-06-23,Materials,Bulk material purchase,201439.99,Apex Materials
+P004,2025-06-25,Materials,Material top-up order,132702.01,UrbanBuild Supply
+P004,2025-06-17,Other,Site office expenses,148232.93,Permit Office
+P004,2025-06-27,Equipment,Crane hire,351017.74,MachineHub
+P004,2025-06-09,Equipment,Scaffolding rental,704415.44,MachineHub
+P004,2025-06-09,Equipment,Scaffolding rental,704415.44,MachineHub
+P004,2025-06-18,Labor,Weekly labor payment,218815.3,BuildForce Staffing
+P004,2025-06-20,Labor,Weekly labor payment,173683.3,ProLabor Services
+P004,2025-06-19,Other,Site office expenses,506239.96,General Vendor
+P004,2025-06-27,Materials,Site material delivery,418879.85,Prime Steel & Cement
+P004,2025-06-25,Labor,Skilled crew payment,60276.94,BuildForce Staffing
+P004,2025-06-23,Materials,Material top-up order,530027.42,UrbanBuild Supply
+P004,2025-06-12,Materials,Bulk material purchase,502987.67,Prime Steel & Cement
+P004,2025-06-17,Materials,Material top-up order,45275.53,Apex Materials
+P004,2025-06-04,MATERIALS,Bulk material purchase,61298.28,UrbanBuild Supply
+P004,2025-06-02,Equipment,Scaffolding rental,106097.86,HeavyLift Rentals
+P004,2025-06-12,Transportation,Debris removal,52990.45,FastHaul Logistics
+P004,2025-06-20,Materials,Bulk material purchase,146097.02,UrbanBuild Supply
+P004,2025-06-17,Equipment,Excavator rental,109056.56,CraneWorks
+P004,2025-06-10,Transportation,Debris removal,403448.22,FastHaul Logistics
+P004,2025-06-10,Transportation,Debris removal,403448.22,FastHaul Logistics
+P005,2025-06-27,Labor,Weekly labor payment,82750.41,BuildForce Staffing
+P005,2025-06-19,Materials,Site material delivery,94389.6,Apex Materials
+P005,2025-06-18,Labor,Weekly labor payment,298408.66,SiteCrew Contractors
+P005,2025-06-12,Materials,Site material delivery,33553.99,Apex Materials
+P005,2025-06-03,Materials,Material top-up order,655667.07,UrbanBuild Supply
+P006,2025-06-20,Labor,Weekly labor payment,132426.82,ProLabor Services
+P006,2025-06-03,Maintenance,Generator maintenance,91697.77,SafeSite Services
+P006,2025-06-23,Equipment,Crane hire,82867.15,CraneWorks
+P006,2025-06-02,Materials,Site material delivery,211939.59,Apex Materials
+P006,2025-06-16,EQUIPMENT,Crane hire,73046.71,CraneWorks
+P006,2025-06-19,Materials,Bulk material purchase,39667.29,UrbanBuild Supply
+P006,2025-06-06,Labor,Weekly labor payment,70836.83,BuildForce Staffing
+P006,2025-06-05,Other,Site office expenses,71766.01,General Vendor
+P006,2025-06-26,Materials,Site material delivery,278043.32,Apex Materials
+P006,2025-06-20,Labor,Weekly labor payment,196353.21,ProLabor Services
+P006,2025-06-27,Materials,Bulk material purchase,364118.08,UrbanBuild Supply
